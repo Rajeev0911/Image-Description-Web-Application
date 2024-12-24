@@ -35,8 +35,9 @@ venv\Scripts\activate
 ```
 
 ## Set up a virtual environment (optional but recommended):
-
+```bash
 pip install -r requirements.txt
+```
 
 ## Running the Application
 
