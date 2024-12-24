@@ -1,0 +1,7 @@
+env/
+uploads/
+
+# Ignore other typical files
+*.pyc
+__pycache__/
+.DS_Store
