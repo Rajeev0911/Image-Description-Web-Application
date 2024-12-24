@@ -25,12 +25,14 @@ Make sure you have the following installed on your local machine:
     python -m venv venv
 
 # On macOS/Linux
-
+```bash
 source venv/bin/activate
+```
 
 # On Windows
-
+```bash
 venv\Scripts\activate
+```
 
 ## Set up a virtual environment (optional but recommended):
 
@@ -38,4 +40,6 @@ pip install -r requirements.txt
 
 ## Running the Application
 
+```bash
 python app.py
+```
