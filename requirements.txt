@@ -1,0 +1,6 @@
+Flask==2.2.3
+Flask-Cors==3.1.1
+transformers==4.31.0
+torch==2.1.0
+Pillow==9.6.1
+werkzeug==2.2.3
